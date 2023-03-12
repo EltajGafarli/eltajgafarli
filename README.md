@@ -8,7 +8,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Java and Django**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 💬 Ask me about **Compititve Programming, Java, CPP, Python**
 
